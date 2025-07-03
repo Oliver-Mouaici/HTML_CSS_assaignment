@@ -19,3 +19,59 @@ body {
   font-weight: <weight>;
   font-style: normal;
 } 
+
+input (type= Welcome!) {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: blue;
+  text-align: center;
+} 
+
+.card-container {
+  position: absolute;
+  top: 200px;
+  left: 200px; 
+} 
+.value-container {
+  position: absolute;
+  width: 55px;
+}
+.container-top {
+  top: 25px;
+  left: 30px;
+} 
+
+.container-bottom {
+  bottom: 20px;
+  right: 30px;
+  transform: rotate(180deg);
+} 
+.container-center {
+  padding-top: 50%;
+  left: 72px;
+  
+} 
+.card { 
+  width: 250px;
+  height: 350px;
+  border: 1px solid black;
+  border-radius: 12.5px;
+} 
+
+.value-number {
+  color: red;
+  font-size: 20px;
+  left: 2px;
+  position: absolute;
+  
+  }
+.value-suit {
+  color: red;
+  font-size: 10px;
+  left:0;
+  position: absolute;
+  padding-top: 19px;
+  }
+
