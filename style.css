@@ -327,7 +327,7 @@ input (type= Welcome!) {
       flex-direction : column;
       }
       
-}
+  }
   @media (max-width: 600px) {
     /* Navbar */
     nav {
