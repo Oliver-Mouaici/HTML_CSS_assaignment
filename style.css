@@ -322,6 +322,11 @@ input (type= Welcome!) {
     .references-section .group {
       flex-direction: column;
     } 
+    /* SECTION 4: Contact */
+    contact section .group {
+      flex-direction : column;
+      }
+      
 }
   @media (max-width: 600px) {
     /* Navbar */
