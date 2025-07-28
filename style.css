@@ -323,7 +323,7 @@ input (type= Welcome!) {
       flex-direction: column;
     } 
     /* SECTION 4: Contact */
-    contact section .group {
+    .contact-section .group {
       flex-direction : column;
       }
       
